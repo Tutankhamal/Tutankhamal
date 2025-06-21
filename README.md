@@ -45,6 +45,7 @@ Sou **Web Designer** e **Front-End Developer** especializado em criar interfaces
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-45B7D1?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔧 Ferramentas
+![Trae AI](https://img.shields.io/badge/Trae_AI-6C17DB?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
