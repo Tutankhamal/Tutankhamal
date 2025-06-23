@@ -21,7 +21,7 @@
 
 ## 🚀 Sobre Mim
 
-> **"Transformando ideias em experiências digitais extraordinárias"**
+> **"Transformando ideias em experiências digitais"**
 
 Sou **Web Designer** e **Front-End Developer** especializado em criar interfaces modernas e interativas. Atualmente estudando para me tornar **Full-Stack Developer**, com foco especial em **backgrounds dinâmicos** e **animações Canvas**.
 
