@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/meta-banner.gif" alt="CHUVA Games Logo" width="600">
+  <img src="/meta_banner.gif" alt="CHUVA Games Logo" width="600">
   </div>
 <div align="center">
 
