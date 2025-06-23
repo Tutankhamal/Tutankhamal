@@ -9,7 +9,7 @@
 
 *Criando experiências digitais únicas com backgrounds dinâmicos e interações imersivas*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tutankhamal--dev.vercel.app-6c17db?style=for-the-badge&logo=vercel&logoColor=white)](https://tutankhamal-dev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tutankhamal.com-6c17db?style=for-the-badge&logo=vercel&logoColor=white)](https://tutankhamal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tutankhamal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tutankhamal/)
 [![Discord](https://img.shields.io/badge/Discord-Tutankhamal-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/820522746622246963)
 [![Instagram](https://img.shields.io/badge/Instagram-@Tutankhamal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Tutankhamal)
