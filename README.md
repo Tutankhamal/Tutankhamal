@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://i.imgur.com/g6ikmvA.gif" alt="CHUVA Games Logo" width="600">
+  </div>
+<div align="center">
 
 # 🌌 André Borba | Tutankhamal
 
