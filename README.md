@@ -7,15 +7,32 @@
 
 ### 🎨 Web Designer & Front-End Developer
 
-*Criando experiências digitais únicas com backgrounds dinâmicos e interações imersivas*
+<p><em>Criando experiências digitais únicas com backgrounds dinâmicos e interações imersivas</em></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tutankhamal.com-6c17db?style=for-the-badge&logo=vercel&logoColor=white)](https://tutankhamal.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tutankhamal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tutankhamal/)
-[![Discord](https://img.shields.io/badge/Discord-Tutankhamal-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/820522746622246963)
-[![Instagram](https://img.shields.io/badge/Instagram-@Tutankhamal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Tutankhamal)
-[![Email](https://img.shields.io/badge/Email-tutankhamal@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tutankhamal@outlook.com)
+<p>
+  <a href="https://tutankhamal.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-tutankhamal.com-6c17db?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/tutankhamal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tutankhamal-6c17db?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://discordapp.com/users/820522746622246963" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Tutankhamal-6c17db?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+
+  <a href="https://instagram.com/Tutankhamal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@Tutankhamal-6c17db?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="mailto:tutankhamal@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-tutankhamal@outlook.com-6c17db?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
+
 
 ---
 
