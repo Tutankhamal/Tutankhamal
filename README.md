@@ -77,7 +77,7 @@ Sou **Web Designer** e **Front-End Developer** especializado em criar interfaces
 
 ## Projetos em Destaque
 
-### [Tutankhamal DEV - Portfolio](https://tutankhamal-dev.vercel.app)
+### [Tutankhamal DEV - Portfolio](https://tutankhamal.com)
 **Background Interativo: Universo Espacial Dinâmico**
 
 - **Canvas API** com sistema de 800+ estrelas animadas
