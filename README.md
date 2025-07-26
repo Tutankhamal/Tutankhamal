@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Portfolio-tutankhamal.com-6c17db?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://chuvagames.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tutankhamal-6c17db?style=for-the-badge&logo=linkedin&logoColor=white" alt="CHUVA Games" />
+    <img src="https://img.shields.io/badge/CHUVA-chuvagames.com-6c17db?style=for-the-badge&logo=vercel&logoColor=white" alt="chuvagames.com" />
   </a>
   <a href="https://www.linkedin.com/in/tutankhamal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tutankhamal-6c17db?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
