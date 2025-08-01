@@ -29,7 +29,7 @@
   </a>
 
   <a href="mailto:tutankhamal@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-tutankhamal@outlook.com-6c17db?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-conmtato@tutankhamal.com-6c17db?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -142,7 +142,7 @@ Sou **Web Designer** e **Front-End Developer** especializado em criar interfaces
 
 **Interessado em colaborar em projetos open source!**
 
-**Email**: [tutankhamal@outlook.com](mailto:tutankhamal@outlook.com)
+**Email**: [contato@tutankhamal.com](mailto:contato@tutankhamal.com)
 
 **Links Importantes**:
 - [Portfolio](https://tutankhamal-dev.vercel.app)
