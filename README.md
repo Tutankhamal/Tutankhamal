@@ -29,7 +29,7 @@
   </a>
 
   <a href="mailto:tutankhamal@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-conmtato@tutankhamal.com-6c17db?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-contato@tutankhamal.com-6c17db?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
