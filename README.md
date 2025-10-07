@@ -1,20 +1,17 @@
 <div align="center">
-  <img src="/meta_banner.gif" alt="CHUVA Games Logo" width="600">
+  <img src="/meta_banner.gif" alt="TUTAS Banner" width="600">
   </div>
 <div align="center">
 
 # André Borba | Tutankhamal
 
-### Web Designer & Front-End Developer
+### Junior Full-Stack Developer
 
 <p><em>Criando experiências digitais únicas com backgrounds dinâmicos e interações imersivas</em></p>
 
 <p>
   <a href="https://tutankhamal.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-tutankhamal.com-6c17db?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://chuvagames.com" target="_blank">
-    <img src="https://img.shields.io/badge/CHUVA&nbsp;Games-chuvagames.com-6c17db?style=for-the-badge&logo=vercel&logoColor=white" alt="chuvagames.com" />
   </a>
   <a href="https://www.linkedin.com/in/tutankhamal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tutankhamal-6c17db?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -42,7 +39,7 @@
 
 > **"Transformando ideias em experiências digitais"**
 
-Sou **Web Designer** e **Front-End Developer** especializado em criar interfaces modernas e interativas. Atualmente estudando para me tornar **Full-Stack Developer**, com foco especial em **backgrounds dinâmicos** e **animações Canvas**.
+Sou **Web Designer** e **Junior Full-Stack Developer** especializado em criar interfaces modernas e interativas. Atualmente estudando para me tornar **Full-Stack Developer**, com foco especial em **backgrounds dinâmicos** e **animações Canvas**.
 
 - **Especialidade**: Backgrounds dinâmicos e interativos
 - **Aprendendo**: Desenvolvimento Full-Stack
@@ -77,29 +74,6 @@ Sou **Web Designer** e **Front-End Developer** especializado em criar interfaces
 
 ---
 
-## Projetos em Destaque
-
-### [Tutankhamal DEV - Portfolio](https://tutankhamal.com)
-**Background Interativo: Universo Espacial Dinâmico**
-
-- **Canvas API** com sistema de 800+ estrelas animadas
-- **Efeito Buraco Negro** ativado por interação do usuário
-- **Rotação de fundo** sutil e contínua
-- **Totalmente responsivo** com otimizações para mobile
-- **3.425+ linhas CSS** e **2.000+ linhas JavaScript**
-
-**Tecnologias**: HTML5, CSS3, JavaScript ES6+, Canvas API, GitHub API
-
-### [Spocky Games Website](https://v4-spocky-games.vercel.app)
-**Background Dinâmico: Pac-Man Interativo**
-
-- **Pac-Man** que persegue o cursor do usuário
-- **Labirinto gerado proceduralmente** a cada carregamento
-- **Partículas flutuantes** para enriquecer a experiência
-- **Algoritmo de pathfinding** inteligente
-- **Background isolado** disponível em [repositório separado](https://github.com/Tutankhamal/Pac-Man_Dynamic_Background)
-
-**Tecnologias**: HTML5, CSS3, JavaScript, Algoritmos de Pathfinding
 
 ---
 
@@ -145,7 +119,7 @@ Sou **Web Designer** e **Front-End Developer** especializado em criar interfaces
 **Email**: [contato@tutankhamal.com](mailto:contato@tutankhamal.com)
 
 **Links Importantes**:
-- [Portfolio](https://tutankhamal-dev.vercel.app)
+- [Portfolio](https://tutankhamal.com)
 - [LinkedIn](https://www.linkedin.com/in/tutankhamal/)
 - [Discord](https://discordapp.com/users/820522746622246963)
 - [Instagram](https://instagram.com/Tutankhamal)
