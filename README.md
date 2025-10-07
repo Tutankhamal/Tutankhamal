@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/meta_banner.gif" alt="TUTAS Banner" width="600">
+  <img src="/meta_banner01.gif" alt="TUTAS Banner" width="600">
   </div>
 <div align="center">
 
