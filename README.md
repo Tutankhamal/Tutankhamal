@@ -3,12 +3,12 @@
   </div>
 <div align="center">
 
-# André Borba | Tutankhamal
+# **[André Borba | Tutankhamal](https://tutankhamal.com)**
 
-### Junior Full-Stack Developer
-### Founder of [ZynxPlay](https://zynxplay.com)
+## Full-Stack Developer (Next.js / Node.js)
+## Founder of **[ZynxPlay](https://zynxplay.com)**
 
-<p><em>Criando experiências digitais únicas com backgrounds dinâmicos e interações imersivas</em></p>
+<p><em>Criando experiências digitais únicas.</em></p>
 
 <p>
   <a href="https://tutankhamal.com" target="_blank">
