@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/zynxplay_banner_bg_black.webp" alt="TUTAS Banner" width="600">
+  <img src="/zynxplay_banner_bg_transparent.webp" alt="TUTAS Banner" width="600">
   </div>
 <div align="center">
 
