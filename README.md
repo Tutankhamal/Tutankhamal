@@ -6,6 +6,7 @@
 # André Borba | Tutankhamal
 
 ### Junior Full-Stack Developer
+### Founder of [ZynxPlay](https://zynxplay.com)
 
 <p><em>Criando experiências digitais únicas com backgrounds dinâmicos e interações imersivas</em></p>
 
