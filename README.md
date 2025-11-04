@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="/zynxplay_bg_black.gif" alt="TUTAS Banner" width="600">
+  <img src="/ecast-gif.gif" alt="TUTAS Banner" width="600">
   </div>
 <div align="center">
 
 # **[André Borba | Tutankhamal](https://tutankhamal.com)**
 
 ## Full-Stack Developer (Next.js / Node.js)
-## Founder of **[ZynxPlay](https://zynxplay.com)**
+## Working at **[E-Cast - Streaming Hosting](https://ecast.site)**
 
 <p><em>Criando experiências digitais únicas.</em></p>
 
