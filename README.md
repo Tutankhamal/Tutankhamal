@@ -1,4 +1,23 @@
 <div align="center">
+
+# **[André Borba | Tutankhamal](https://tutankhamal.com)**
+## Front-End Developer (Next.js / Node.js)
+</div>
+
+<div align="center">
+<img src="/ecast-gif-nolink.gif" alt="TUTAS Banner" width="600">
+  
+  # **[E-Cast - Streaming Hosting](https://ecast.site)**
+  </div>
+
+<div align="center">
+  <img src="/zynxplay_banner_bg_transparent.webp" alt="ZynxBanner" width="600">
+  
+  # **[ZynxPlay - A Indie Games Platform (Soon)](https://zynxplay.com)**
+  </div>
+  
+
+<div align="center">
   <img src="/ecast-gif.gif" alt="TUTAS Banner" width="600">
   
   # **[André Borba | Tutankhamal](https://tutankhamal.com)**
