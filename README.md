@@ -1,5 +1,6 @@
 <div align="center">
   <img src="/ecast-gif.gif" alt="TUTAS Banner" width="600">
+  
   # **[André Borba | Tutankhamal](https://tutankhamal.com)**
 
 ## Front-End Developer (Next.js / Node.js)
