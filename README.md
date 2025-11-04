@@ -1,14 +1,12 @@
 <div align="center">
   <img src="/ecast-gif.gif" alt="TUTAS Banner" width="600">
-  ## **[E-Cast - Streaming Hosting](https://ecast.site)**
+  ## Working at **[E-Cast - Streaming Hosting](https://ecast.site)**
   </div>
 <div align="center">
-## **[E-Cast - Streaming Hosting](https://ecast.site)**
 
   # **[André Borba | Tutankhamal](https://tutankhamal.com)**
 
 ## Front-End Developer (Next.js / Node.js)
-## Working at **[E-Cast - Streaming Hosting](https://ecast.site)**
 
 <p><em>Criando experiências digitais únicas.</em></p>
 
