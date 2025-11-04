@@ -5,6 +5,9 @@
   
 # **[ZynxPlay - A Indie Games Platform (Soon)](https://zynxplay.com)**
 <img src="/zynxplay_banner_bg_transparent.webp" alt="ZynxBanner" width="600">
+
+# **[André Borba | Tutankhamal](https://tutankhamal.com)**
+## Front-End Developer (Next.js / Node.js)
 </div>
     
 <div align="center">
