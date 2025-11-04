@@ -5,7 +5,7 @@
 
 # **[André Borba | Tutankhamal](https://tutankhamal.com)**
 
-## Full-Stack Developer (Next.js / Node.js)
+## Front-End Developer (Next.js / Node.js)
 ## Working at **[E-Cast - Streaming Hosting](https://ecast.site)**
 
 <p><em>Criando experiências digitais únicas.</em></p>
