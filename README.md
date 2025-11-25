@@ -34,21 +34,6 @@
 
 </div>
 
-
----
-
-## Sobre Mim
-
-> **"Transformando ideias em experiências digitais"**
-
-Sou **Web Designer** e **Junior Full-Stack Developer** especializado em criar interfaces modernas e interativas. Atualmente estudando para me tornar **Full-Stack Developer**, com foco especial em **backgrounds dinâmicos** e **animações Canvas**.
-
-- **Especialidade**: Backgrounds dinâmicos e interativos
-- **Aprendendo**: Desenvolvimento Full-Stack
-- **Aberto para**: Propostas de emprego e freelances
-- **Contribuições**: Projetos open source
-- **Interesses**: Tecnologia, Video-games e Gastronomia
-
 ---
 
 ## Stack Tecnológico
