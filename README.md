@@ -5,7 +5,7 @@
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF3333&center=true&vCenter=true&width=1100&lines=ANDRÉ+BORBA+(TUTANKHAMAL);Front-End+Developer+%40+E-Cast+Streaming+Hosting;React+%7C+Next.js+%7C+TypeScript+%7C+PHP+%7C+Motion.dev;Graphic+Designer+%26+VFX+(Adobe+Creative+Cloud);Musician+%7C+Bassist+%7C+Pianist+%7C+Beatmaker+(FL+Studio)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=33&pause=1000&color=FF3333&center=true&vCenter=true&width=1100&lines=ANDRÉ+BORBA+(TUTANKHAMAL);Front-End+Developer+%40+E-Cast+Streaming+Hosting;React+%7C+Next.js+%7C+TypeScript+%7C+PHP+%7C+Vite;Graphic+Designer+%7C+Video+%26+VFX+(Adobe+Creative+Cloud);Musician+%7C+Bassist+%7C+Pianist+%7C+Beatmaker+(FL+Studio)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=FF3333" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/tutankhamal/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF3333" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjMzMzMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTkgMjF2LTIwMTRoLTJ2MiIvPjxwYXRoIGQ9Ik0xMiAxOWE0IDQgMCAwIDAtNC00SDZhNCA0IDAgMCAwLTQgNHYyIi8+PGNpcmNsZSBjeD0iOSIgY3k9IjciIHI9IjQiLz48L3N2Zz4=" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Tutankhamal" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF3333" alt="GitHub" />
@@ -58,7 +58,7 @@
   </a>
   <br />
 
-  <a href="https://open.spotify.com/intl-pt/artist/51tvd2K8GOWiJ4lfXk6Ekm?si=i-pq8" target="_blank">
+  <a href="https://open.spotify.com/intl-pt/artist/51tvd2K8GOWiJ4lfXk6Ekm" target="_blank">
     <img src="https://img.shields.io/badge/SPOTIFY_ARTIST-000000?style=for-the-badge&logo=spotify&logoColor=FF3333" alt="Spotify" />
   </a>
   <a href="https://www.youtube.com/@tutankhamal" target="_blank">
@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=FF3333" alt="Steam" />
   </a>
   <a href="https://account.xbox.com/pt-br/profile?gamertag=Tutankhamal" target="_blank">
-    <img src="https://img.shields.io/badge/XBOX-000000?style=for-the-badge&logo=xbox&logoColor=FF3333" alt="Xbox" />
+    <img src="https://img.shields.io/badge/XBOX-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjMzMzMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNiIgeDI9IjEwIiB5MT0iMTEiIHkyPSIxMSIvPjxsaW5lIHgxPSI4IiB4Mj0iOCIgeTE9IjkiIHkyPSIxMyIvPjxsaW5lIHgxPSIxNSIgeDI9IjE1LjAxIiB5MT0iMTIiIHkyPSIxMiIvPjxsaW5lIHgxPSIxOCIgeDI9IjE4LjAxIiB5MT0iMTAiIHkyPSIxMCIvPjxwYXRoIGQ9Ik0xNy4zMiA1SDYuNjhhNCA0IDAgMCAwLTMuOTc4IDMuNTljLS4wMDYuMDUyLS4wMTAuMTAxLS4wMTcuMTUyQzIuNjA0IDkuNDE2IDIgMTQuNDU2IDIgMTZhMyAzIDAgMCAwIDMgM2MxIDAgMS41LS41IDItMWwxLjQxNC0xLjQxNGEyIDIgMCAwIDElMjAuODI4IDBMMTMgMThjLjUuNSAxIDEgMiAxYTMgMyAwIDAgMCAzLTNjMC0xLjU0NS0uNjA0LTYuNTg0LS42ODUtNy4yNTgtLjAwNy0uMDUtLjAxMS0uMS0uMDE3LS4xNTFBNCA0IDAgMCAwIDE3LjMyIDV6Ii8+PC9zdmc+" alt="Xbox" />
   </a>
 
 </div>
@@ -80,11 +80,11 @@
 
 ---
 
-## <span style="color: #FF3333">⚡</span> Technical Arsenal
+## <img src="https://img.shields.io/badge/_-000000?style=flat&logo=amp&logoColor=FF3333" height="20"> Stacks
 
 <div align="center">
 
-### Front-End Development
+### Front-End | UX/UI
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF3333" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF3333" />
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF3333" />
@@ -98,16 +98,16 @@
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF3333" />
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF3333" />
 
-### Graphic Design / Video & VFX
-<img src="https://img.shields.io/badge/Adobe_Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=FF3333" />
-<img src="https://img.shields.io/badge/Adobe_Premiere-000000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=FF3333" />
-<img src="https://img.shields.io/badge/Adobe_After_Effects-000000?style=for-the-badge&logo=adobe-after-effects&logoColor=FF3333" />
-<img src="https://img.shields.io/badge/Adobe_Illustrator-000000?style=for-the-badge&logo=adobe-illustrator&logoColor=FF3333" />
+### Graphic Design | Video & VFX (Adobe Creative Cloud)
+<img src="https://img.shields.io/badge/Adobe_Photoshop-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjMzMzMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjMiIHJ4PSIyIiByeT0iMiIvPjxjaXJjbGUgY3g9IjkiIGN5PSI5IiByPSIyIi8+PHBhdGggZD0ibTIxIDE1LTMuMDg2LTMuMDg2YTIgMiAwIDAgMC0yLjgyOCAwTDYgMjEiLz48L3N2Zz4=" />
+<img src="https://img.shields.io/badge/Adobe_Premiere-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjMzMzMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjMiIHJ4PSIyIi8+PHBhdGggZD0iTTcgM3YxOCIvPjxwYXRoIGQ9Ik0zIDcuNWg0Ii8+PHBhdGggZD0iTTMgMTJoMTgiLz48cGF0aCBkPSJNMyAxNi41aDQiLz48cGF0aCBkPSJNMTcgM3YxOCIvPjxwYXRoIGQ9Ik0xNyA3LjVoNCIvPjxwYXRoIGQ9Ik0xNyAxNi41aDQiLz48L3N2Zz4=" />
+<img src="https://img.shields.io/badge/Adobe_After_Effects-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjMzMzMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjMiIHJ4PSIyIi8+PHBhdGggZD0iTTcgM3YxOCIvPjxwYXRoIGQ9Ik0zIDcuNWg0Ii8+PHBhdGggZD0iTTMgMTJoMTgiLz48cGF0aCBkPSJNMyAxNi41aDQiLz48cGF0aCBkPSJNMTcgM3YxOCIvPjxwYXRoIGQ9Ik0xNyA3LjVoNCIvPjxwYXRoIGQ9Ik0xNyAxNi41aDQiLz48L3N2Zz4=" />
+<img src="https://img.shields.io/badge/Adobe_Illustrator-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjMzMzMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJtMTIgMTkgNy03IDMgMy03IDctMy0zeiIvPjxwYXRoIGQ9Im0xOCAxMy0xLjUtNy41TDIgMmwzLjUgMTQuNUwxMyAxOGw1LTV6Ii8+PHBhdGggZD0ibTIgMiA3LjUgMS41TDEzIDE4bC01IDVMMiAyeiIvPjwvc3ZnPg==" />
 
 ### Audio Production
-<img src="https://img.shields.io/badge/FL_Studio-000000?style=for-the-badge&logo=fl-studio&logoColor=FF3333" />
-<img src="https://img.shields.io/badge/Piano-000000?style=for-the-badge&logo=yamaha&logoColor=FF3333" />
-<img src="https://img.shields.io/badge/Bass_Guitar-000000?style=for-the-badge&logo=music&logoColor=FF3333" />
+<img src="https://img.shields.io/badge/FL_Studio-000000?style=for-the-badge&logo=apple-music&logoColor=FF3333" />
+<img src="https://img.shields.io/badge/Piano-000000?style=for-the-badge&logo=apple-music&logoColor=FF3333" />
+<img src="https://img.shields.io/badge/Bass_Guitar-000000?style=for-the-badge&logo=apple-music&logoColor=FF3333" />
 
 </div>
 
@@ -115,7 +115,7 @@
 
 ---
 
-## <span style="color: #FF3333">📊</span> GitHub Metrics
+## <img src="https://img.shields.io/badge/_-000000?style=flat&logo=google-analytics&logoColor=FF3333" height="20"> GitHub Metrics
 
 <div align="center">
   <p>
