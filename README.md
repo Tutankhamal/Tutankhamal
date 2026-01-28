@@ -19,7 +19,7 @@
     <br /><br />
     My primary focus is architecting high-performance interfaces for <b>VOD (Video on Demand)</b> platforms, managing complex content delivery systems for movies, series, live broadcasts, and CCTV monitoring. I bridge the gap between backend logic and immersive user experiences.
     <br /><br />
-    Beyond engineering, I am a multi-disciplinary creative: a <b>Graphic Designer & VFX Artist</b>, and a proficient <b>Musician & Beatmaker</b>.
+    Beyond development, I am a multi-disciplinary creative: a <b>Graphic Designer & VFX Artist</b>, and a proficient <b>Musician & Beatmaker</b>.
   </p>
 </div>
 
