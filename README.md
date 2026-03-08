@@ -5,17 +5,17 @@
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=33&pause=1000&color=FF3333&center=true&vCenter=true&width=1100&lines=ANDRÉ+BORBA+(TUTANKHAMAL);Front-End+Developer+%40+E-Cast+Streaming+Hosting;React+%7C+Next.js+%7C+TypeScript+%7C+PHP+%7C+Vite;Graphic+Designer+%7C+Video+%26+VFX+(Adobe+Creative+Cloud);Musician+%7C+Bassist+%7C+Pianist+%7C+Beatmaker+(FL+Studio)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=33&pause=1000&color=FF3333&center=true&vCenter=true&width=1100&lines=ANDRÉ+BORBA+(TUTANKHAMAL);Front-End+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+PHP+%7C+Vite;Graphic+Designer+%7C+Video+%26+VFX+(Adobe+Creative+Cloud);Musician+%7C+Bassist+%7C+Pianist+%7C+Beatmaker+(FL+Studio)" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CURRENT_ROLE-FRONT--END_DEV_AT_E--CAST-000000?style=flat&color=000000&labelColor=000000&logoColor=FF3333&logo=google-cloud" />
+  <img src="https://img.shields.io/badge/CURRENT_ROLE-FRONT--END_DEV_AT_TUTANKHAMAL--DEV-000000?style=flat&color=000000&labelColor=000000&logoColor=FF3333&logo=google-cloud" />
   
   <p style="color: #cccccc; font-size: 16px; max-width: 700px; line-height: 1.6;">
-    I am a <b>Full-Stack Developer</b> specializing in the Front-End ecosystem. Currently, I serve as the <b>Front-End Developer</b> at <a href="https://ecast.com.br" style="color: #FF3333; text-decoration: none;"><b>E-Cast Streaming Hosting</b></a>.
+    I am a <b>Full-Stack Developer</b> specializing in the Front-End ecosystem. Currently, I serve as the <b>Front-End Developer</b> at <a href="https://tutankhamal.com" style="color: #FF3333; text-decoration: none;"><b>Tutankhamal DEV</b></a>.
     <br /><br />
     My primary focus is architecting high-performance interfaces for <b>VOD (Video on Demand)</b> platforms, managing complex content delivery systems for movies, series, live broadcasts, and CCTV monitoring. I bridge the gap between backend logic and immersive user experiences.
     <br /><br />
