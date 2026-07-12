@@ -5,17 +5,17 @@
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=33&pause=1000&color=FF3333&center=true&vCenter=true&width=1100&lines=ANDRÉ+BORBA+(TUTANKHAMAL);Front-End+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+PHP+%7C+Vite;Graphic+Designer+%7C+Video+%26+VFX+(Adobe+Creative+Cloud);Musician+%7C+Bassist+%7C+Pianist+%7C+Beatmaker+(FL+Studio)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=33&pause=1000&color=FF3333&center=true&vCenter=true&width=1100&lines=ANDRÉ+BORBA+(TUTANKHAMAL);Founder%2C+CEO+%26+Lead+Developer+%40+Stream.Builders;Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+PHP+%7C+Vite;Graphic+Designer+%7C+Video+%26+VFX+(Adobe+Creative+Cloud);Musician+%7C+Bassist+%7C+Pianist+%7C+Beatmaker+(FL+Studio)" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CURRENT_ROLE-FRONT--END_DEV_AT_TUTANKHAMAL--DEV-000000?style=flat&color=000000&labelColor=000000&logoColor=FF3333&logo=google-cloud" />
+  <img src="https://img.shields.io/badge/CURRENT_ROLE-FOUNDER_%C2%B7_CEO_%C2%B7_LEAD_DEV_%40_STREAM.BUILDERS-000000?style=flat&color=000000&labelColor=000000&logoColor=FF3333&logo=google-cloud" />
   
   <p style="color: #cccccc; font-size: 16px; max-width: 700px; line-height: 1.6;">
-    I am a <b>Full-Stack Developer</b> specializing in the Front-End ecosystem. Currently, I serve as the <b>Front-End Developer</b> at <a href="https://tutankhamal.com" style="color: #FF3333; text-decoration: none;"><b>Tutankhamal DEV</b></a>.
+    <span style="color:#EFE6D0;">I am the <b>Founder, CEO &amp; Lead Developer</b> of <a href="https://stream.builders" style="color: #FF3333; text-decoration: none;"><b>Stream.Builders</b></a> — a software studio building high-performance streaming products end to end.</span>
     <br /><br />
     My primary focus is architecting high-performance interfaces for <b>VOD (Video on Demand)</b> platforms, managing complex content delivery systems for movies, series, live broadcasts, and CCTV monitoring. I bridge the gap between backend logic and immersive user experiences.
     <br /><br />
@@ -118,12 +118,25 @@
 ## <img src="https://img.shields.io/badge/_-000000?style=flat&logo=google-analytics&logoColor=FF3333" height="20"> GitHub Metrics
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tutankhamal&style=for-the-badge&color=FF3333&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Tutankhamal&show_icons=true&theme=transparent&hide_border=true&title_color=FF3333&text_color=FFFFFF&icon_color=FF3333&bg_color=000000&hide=stars" height="150" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutankhamal&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=FF3333&text_color=FFFFFF&icon_color=FF3333&bg_color=000000" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Tutankhamal&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=FF3333&text_color=EFE6D0&icon_color=FF3333&bg_color=000000&cache_seconds=1800" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutankhamal&hide_border=true&background=000000&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&sideLabels=EFE6D0&currStreakNum=EFE6D0&sideNums=EFE6D0&dates=888888&stroke=FF3333" height="150" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutankhamal&layout=compact&langs_count=8&count_private=true&theme=transparent&hide_border=true&title_color=FF3333&text_color=EFE6D0&icon_color=FF3333&bg_color=000000&cache_seconds=1800" height="150" alt="Top Languages" />
   </p>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tutankhamal&theme=github_dark&bg_color=000000&title_color=FF3333&text_color=ffffff&icon_color=FF3333" alt="Profile Details" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tutankhamal&theme=react-dark&bg_color=000000&color=EFE6D0&line=FF3333&point=FF3333&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+
+  <br /><br />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Tutankhamal&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&title_color=FF3333&text_color=EFE6D0" width="95%" alt="Trophies" />
+
+  <br /><br />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tutankhamal&theme=github_dark&bg_color=000000&title_color=FF3333&text_color=EFE6D0&icon_color=FF3333" alt="Profile Details" width="80%" />
 </div>
 
 <div align="center">
