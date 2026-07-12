@@ -123,16 +123,14 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Tutankhamal&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=FF3333&text_color=EFE6D0&icon_color=FF3333&bg_color=000000&cache_seconds=1800" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tutankhamal&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=FF3333&text_color=EFE6D0&icon_color=FF3333&bg_color=000000&cache_seconds=1800" height="150" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutankhamal&hide_border=true&background=000000&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&sideLabels=EFE6D0&currStreakNum=EFE6D0&sideNums=EFE6D0&dates=888888&stroke=FF3333" height="150" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutankhamal&layout=compact&langs_count=8&count_private=true&theme=transparent&hide_border=true&title_color=FF3333&text_color=EFE6D0&icon_color=FF3333&bg_color=000000&cache_seconds=1800" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tutankhamal&layout=compact&langs_count=8&count_private=true&theme=transparent&hide_border=true&title_color=FF3333&text_color=EFE6D0&icon_color=FF3333&bg_color=000000&cache_seconds=1800" height="150" alt="Top Languages" />
   </p>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tutankhamal&theme=react-dark&bg_color=000000&color=EFE6D0&line=FF3333&point=FF3333&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
   <br /><br />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Tutankhamal&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&title_color=FF3333&text_color=EFE6D0" width="95%" alt="Trophies" />
 
   <br /><br />
 
