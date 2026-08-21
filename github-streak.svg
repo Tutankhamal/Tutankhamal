@@ -1,0 +1,40 @@
+<svg width="450" height="195" viewBox="0 0 450 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="André Borba's GitHub Streak">
+  <style>
+    .header { font: 700 18px 'Orbitron', 'Segoe UI', Ubuntu, Sans-Serif; fill: #FF3333; }
+    .stat-num { font: 800 24px 'Orbitron', 'Segoe UI', Ubuntu, Sans-Serif; fill: #FF3333; text-anchor: middle; }
+    .stat-label { font: 600 11px 'Orbitron', 'Segoe UI', Ubuntu, Sans-Serif; fill: #EFE6D0; text-anchor: middle; }
+    .stat-date { font: 500 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #888888; text-anchor: middle; }
+  </style>
+  <rect x="1" y="1" width="448" height="193" rx="10" fill="#050505" stroke="#FF3333" stroke-width="1.5" stroke-opacity="0.6"/>
+  <!-- Corner Tech Accent -->
+  <path d="M1 15 L1 1 L15 1" stroke="#FF3333" stroke-width="2.5" fill="none"/>
+  <path d="M449 15 L449 1 L435 1" stroke="#FF3333" stroke-width="2.5" fill="none"/>
+  <path d="M1 180 L1 194 L15 194" stroke="#FF3333" stroke-width="2.5" fill="none"/>
+  <path d="M449 180 L449 194 L435 194" stroke="#FF3333" stroke-width="2.5" fill="none"/>
+
+  <text x="25" y="35" class="header">GITHUB STREAK STATS</text>
+
+  <!-- Block 1: Total Contributions -->
+  <g transform="translate(80, 75)">
+    <circle cx="0" cy="30" r="30" fill="#15080A" stroke="#FF3333" stroke-width="1.5"/>
+    <text x="0" y="38" class="stat-num">1.2K</text>
+    <text x="0" y="80" class="stat-label">TOTAL COMMITS</text>
+    <text x="0" y="96" class="stat-date">2024 - Present</text>
+  </g>
+
+  <!-- Block 2: Current Streak (Central Big Flame) -->
+  <g transform="translate(225, 65)">
+    <circle cx="0" cy="40" r="38" fill="#200a0d" stroke="#FF3333" stroke-width="2.5"/>
+    <text x="0" y="48" class="stat-num" font-size="28">🔥 100%</text>
+    <text x="0" y="92" class="stat-label">DAILY STREAK</text>
+    <text x="0" y="108" class="stat-date">Active Builder</text>
+  </g>
+
+  <!-- Block 3: Longest Streak -->
+  <g transform="translate(370, 75)">
+    <circle cx="0" cy="30" r="30" fill="#15080A" stroke="#FF3333" stroke-width="1.5"/>
+    <text x="0" y="38" class="stat-num">9+ M</text>
+    <text x="0" y="80" class="stat-label">DEDICATION</text>
+    <text x="0" y="96" class="stat-date">20h / day</text>
+  </g>
+</svg>
