@@ -17,7 +17,7 @@
   <!-- Block 1: Total Contributions -->
   <g transform="translate(80, 75)">
     <circle cx="0" cy="30" r="30" fill="#15080A" stroke="#FF3333" stroke-width="1.5"/>
-    <text x="0" y="38" class="stat-num">1.2K</text>
+    <text x="0" y="38" class="stat-num">6.1K</text>
     <text x="0" y="80" class="stat-label">TOTAL COMMITS</text>
     <text x="0" y="96" class="stat-date">2024 - Present</text>
   </g>

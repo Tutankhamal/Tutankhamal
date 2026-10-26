@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/banner_webp_optmized.webp" alt="Tutankhamal Banner" width="100%" style="border-radius: 8px;">
+  <img src="./banner_webp_optmized.webp" alt="Tutankhamal Banner" width="100%" style="border-radius: 8px;">
   
   <br />
   <br />
@@ -127,7 +127,7 @@
     <img src="./github-streak.svg" height="150" alt="GitHub Streak" />
   </p>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tutankhamal&theme=react-dark&bg_color=000000&color=EFE6D0&line=FF3333&point=FF3333&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="./activity-graph.svg" width="95%" alt="Activity Graph" />
 
   <br /><br />
 </div>
