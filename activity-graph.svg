@@ -42,56 +42,52 @@
     <!-- Pill 1: Total -->
     <rect x="0" y="0" width="130" height="24" rx="4" fill="#15080A" stroke="#FF3333" stroke-width="1"/>
     <text x="10" y="16" class="badge-label">TOTAL:</text>
-    <text x="65" y="16" class="badge-val">1207</text>
+    <text x="65" y="16" class="badge-val">1065</text>
 
     <!-- Pill 2: Peak -->
     <rect x="140" y="0" width="125" height="24" rx="4" fill="#15080A" stroke="#FF3333" stroke-width="1"/>
     <text x="150" y="16" class="badge-label">PEAK:</text>
-    <text x="200" y="16" class="badge-val">166</text>
+    <text x="200" y="16" class="badge-val">89</text>
 
     <!-- Pill 3: Average -->
     <rect x="275" y="0" width="130" height="24" rx="4" fill="#15080A" stroke="#FF3333" stroke-width="1"/>
     <text x="285" y="16" class="badge-label">AVG:</text>
-    <text x="325" y="16" class="badge-val">38.9/d</text>
+    <text x="325" y="16" class="badge-val">34.4/d</text>
   </g>
 
   <!-- Grid lines -->
   
       <line x1="45" y1="147.5" x2="865" y2="147.5" stroke="#FF3333" stroke-opacity="0.12" stroke-dasharray="3,4" stroke-width="1"/>
-      <text x="37" y="150.5" text-anchor="end" class="grid-val">44</text>
+      <text x="37" y="150.5" text-anchor="end" class="grid-val">25</text>
     
       <line x1="45" y1="120" x2="865" y2="120" stroke="#FF3333" stroke-opacity="0.12" stroke-dasharray="3,4" stroke-width="1"/>
-      <text x="37" y="123" text-anchor="end" class="grid-val">88</text>
+      <text x="37" y="123" text-anchor="end" class="grid-val">50</text>
     
       <line x1="45" y1="92.5" x2="865" y2="92.5" stroke="#FF3333" stroke-opacity="0.12" stroke-dasharray="3,4" stroke-width="1"/>
-      <text x="37" y="95.5" text-anchor="end" class="grid-val">131</text>
+      <text x="37" y="95.5" text-anchor="end" class="grid-val">75</text>
     
       <line x1="45" y1="65" x2="865" y2="65" stroke="#FF3333" stroke-opacity="0.12" stroke-dasharray="3,4" stroke-width="1"/>
-      <text x="37" y="68" text-anchor="end" class="grid-val">175</text>
+      <text x="37" y="68" text-anchor="end" class="grid-val">100</text>
     
 
   <!-- Chart Area Gradient Fill -->
-  <path d="M 45.0 70.7 C 49.6 78.7, 63.2 107.5, 72.3 119.1 C 81.4 130.6, 90.6 137.2, 99.7 139.8 C 108.8 142.4, 117.9 133.0, 127.0 134.8 C 136.1 136.6, 145.2 146.1, 154.3 150.5 C 163.4 154.9, 172.6 158.3, 181.7 161.2 C 190.8 164.0, 199.9 168.1, 209.0 167.5 C 218.1 166.8, 227.2 156.4, 236.3 157.4 C 245.4 158.4, 254.6 175.2, 263.7 173.7 C 272.8 172.3, 281.9 149.5, 291.0 148.6 C 300.1 147.7, 309.2 166.3, 318.3 168.1 C 327.4 169.9, 336.6 163.5, 345.7 159.3 C 354.8 155.1, 363.9 142.9, 373.0 142.9 C 382.1 142.9, 391.2 161.4, 400.3 159.3 C 409.4 157.2, 418.6 131.9, 427.7 130.4 C 436.8 128.8, 445.9 147.2, 455.0 149.9 C 464.1 152.5, 473.2 147.7, 482.3 146.1 C 491.4 144.5, 500.6 141.6, 509.7 140.4 C 518.8 139.3, 527.9 135.0, 537.0 139.2 C 546.1 143.4, 555.2 161.5, 564.3 165.6 C 573.4 169.7, 582.6 164.5, 591.7 163.7 C 600.8 162.8, 609.9 162.1, 619.0 160.5 C 628.1 159.0, 637.2 153.7, 646.3 154.3 C 655.4 154.8, 664.6 164.6, 673.7 163.7 C 682.8 162.7, 691.9 149.1, 701.0 148.6 C 710.1 148.1, 719.2 157.6, 728.3 160.5 C 737.4 163.5, 746.6 168.9, 755.7 166.2 C 764.8 163.5, 773.9 145.6, 783.0 144.2 C 792.1 142.8, 801.2 156.4, 810.3 158.0 C 819.4 159.7, 828.6 152.6, 837.7 154.3 C 846.8 155.9, 860.4 165.8, 865.0 168.1 L 865.0 175.0 L 45.0 175.0 Z" fill="url(#areaGradient)"/>
+  <path d="M 45.0 77.1 C 49.6 83.1, 63.2 108.8, 72.3 113.4 C 81.4 118.0, 90.6 101.5, 99.7 104.6 C 108.8 107.7, 117.9 124.4, 127.0 132.1 C 136.1 139.8, 145.2 145.9, 154.3 150.8 C 163.4 155.8, 172.6 162.9, 181.7 161.8 C 190.8 160.7, 199.9 142.4, 209.0 144.2 C 218.1 146.0, 227.2 175.4, 236.3 172.8 C 245.4 170.2, 254.6 130.5, 263.7 128.8 C 272.8 127.2, 281.9 159.8, 291.0 162.9 C 300.1 166.0, 309.2 154.8, 318.3 147.5 C 327.4 140.2, 336.6 118.9, 345.7 118.9 C 354.8 118.9, 363.9 151.2, 373.0 147.5 C 382.1 143.8, 391.2 99.7, 400.3 96.9 C 409.4 94.2, 418.6 126.4, 427.7 131.0 C 436.8 135.6, 445.9 127.2, 455.0 124.4 C 464.1 121.7, 473.2 116.5, 482.3 114.5 C 491.4 112.5, 500.6 105.0, 509.7 112.3 C 518.8 119.6, 527.9 151.3, 537.0 158.5 C 546.1 165.7, 555.2 156.7, 564.3 155.2 C 573.4 153.7, 582.6 152.4, 591.7 149.7 C 600.8 146.9, 609.9 137.8, 619.0 138.7 C 628.1 139.6, 637.2 156.8, 646.3 155.2 C 655.4 153.5, 664.6 129.7, 673.7 128.8 C 682.8 127.9, 691.9 144.6, 701.0 149.7 C 710.1 154.8, 719.2 164.4, 728.3 159.6 C 737.4 154.8, 746.6 123.5, 755.7 121.1 C 764.8 118.7, 773.9 142.4, 783.0 145.3 C 792.1 148.2, 801.2 139.1, 810.3 138.7 C 819.4 138.3, 828.6 138.1, 837.7 143.1 C 846.8 148.1, 860.4 164.2, 865.0 168.4 L 865.0 175.0 L 45.0 175.0 Z" fill="url(#areaGradient)"/>
 
   <!-- Chart Line Curve with Glow -->
-  <path d="M 45.0 70.7 C 49.6 78.7, 63.2 107.5, 72.3 119.1 C 81.4 130.6, 90.6 137.2, 99.7 139.8 C 108.8 142.4, 117.9 133.0, 127.0 134.8 C 136.1 136.6, 145.2 146.1, 154.3 150.5 C 163.4 154.9, 172.6 158.3, 181.7 161.2 C 190.8 164.0, 199.9 168.1, 209.0 167.5 C 218.1 166.8, 227.2 156.4, 236.3 157.4 C 245.4 158.4, 254.6 175.2, 263.7 173.7 C 272.8 172.3, 281.9 149.5, 291.0 148.6 C 300.1 147.7, 309.2 166.3, 318.3 168.1 C 327.4 169.9, 336.6 163.5, 345.7 159.3 C 354.8 155.1, 363.9 142.9, 373.0 142.9 C 382.1 142.9, 391.2 161.4, 400.3 159.3 C 409.4 157.2, 418.6 131.9, 427.7 130.4 C 436.8 128.8, 445.9 147.2, 455.0 149.9 C 464.1 152.5, 473.2 147.7, 482.3 146.1 C 491.4 144.5, 500.6 141.6, 509.7 140.4 C 518.8 139.3, 527.9 135.0, 537.0 139.2 C 546.1 143.4, 555.2 161.5, 564.3 165.6 C 573.4 169.7, 582.6 164.5, 591.7 163.7 C 600.8 162.8, 609.9 162.1, 619.0 160.5 C 628.1 159.0, 637.2 153.7, 646.3 154.3 C 655.4 154.8, 664.6 164.6, 673.7 163.7 C 682.8 162.7, 691.9 149.1, 701.0 148.6 C 710.1 148.1, 719.2 157.6, 728.3 160.5 C 737.4 163.5, 746.6 168.9, 755.7 166.2 C 764.8 163.5, 773.9 145.6, 783.0 144.2 C 792.1 142.8, 801.2 156.4, 810.3 158.0 C 819.4 159.7, 828.6 152.6, 837.7 154.3 C 846.8 155.9, 860.4 165.8, 865.0 168.1" stroke="url(#lineGradient)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <path d="M 45.0 77.1 C 49.6 83.1, 63.2 108.8, 72.3 113.4 C 81.4 118.0, 90.6 101.5, 99.7 104.6 C 108.8 107.7, 117.9 124.4, 127.0 132.1 C 136.1 139.8, 145.2 145.9, 154.3 150.8 C 163.4 155.8, 172.6 162.9, 181.7 161.8 C 190.8 160.7, 199.9 142.4, 209.0 144.2 C 218.1 146.0, 227.2 175.4, 236.3 172.8 C 245.4 170.2, 254.6 130.5, 263.7 128.8 C 272.8 127.2, 281.9 159.8, 291.0 162.9 C 300.1 166.0, 309.2 154.8, 318.3 147.5 C 327.4 140.2, 336.6 118.9, 345.7 118.9 C 354.8 118.9, 363.9 151.2, 373.0 147.5 C 382.1 143.8, 391.2 99.7, 400.3 96.9 C 409.4 94.2, 418.6 126.4, 427.7 131.0 C 436.8 135.6, 445.9 127.2, 455.0 124.4 C 464.1 121.7, 473.2 116.5, 482.3 114.5 C 491.4 112.5, 500.6 105.0, 509.7 112.3 C 518.8 119.6, 527.9 151.3, 537.0 158.5 C 546.1 165.7, 555.2 156.7, 564.3 155.2 C 573.4 153.7, 582.6 152.4, 591.7 149.7 C 600.8 146.9, 609.9 137.8, 619.0 138.7 C 628.1 139.6, 637.2 156.8, 646.3 155.2 C 655.4 153.5, 664.6 129.7, 673.7 128.8 C 682.8 127.9, 691.9 144.6, 701.0 149.7 C 710.1 154.8, 719.2 164.4, 728.3 159.6 C 737.4 154.8, 746.6 123.5, 755.7 121.1 C 764.8 118.7, 773.9 142.4, 783.0 145.3 C 792.1 148.2, 801.2 139.1, 810.3 138.7 C 819.4 138.3, 828.6 138.1, 837.7 143.1 C 846.8 148.1, 860.4 164.2, 865.0 168.4" stroke="url(#lineGradient)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
 
   <!-- Interactive / Highlight Points -->
   
-        <circle cx="45.0" cy="70.7" r="7" fill="#FF3333" fill-opacity="0.25"/>
-        <circle cx="45.0" cy="70.7" r="4" fill="#FFFFFF" stroke="#FF3333" stroke-width="2"/>
-        <text x="45.0" y="62.7" text-anchor="middle" class="peak-label">166</text>
+        <circle cx="45.0" cy="77.1" r="3.5" fill="#FF3333" stroke="#FFFFFF" stroke-width="1.5"/>
+        <text x="45.0" y="70.1" text-anchor="middle" class="peak-label-sub">89</text>
       
-        <circle cx="72.3" cy="119.1" r="3.5" fill="#FF3333" stroke="#FFFFFF" stroke-width="1.5"/>
-        <text x="72.3" y="112.1" text-anchor="middle" class="peak-label-sub">89</text>
-      <circle cx="99.7" cy="139.8" r="2" fill="#FF3333"/>
-        <circle cx="127.0" cy="134.8" r="3.5" fill="#FF3333" stroke="#FFFFFF" stroke-width="1.5"/>
-        <text x="127.0" y="127.8" text-anchor="middle" class="peak-label-sub">64</text>
-      <circle cx="154.3" cy="150.5" r="2" fill="#FF3333"/><circle cx="209.0" cy="167.5" r="2" fill="#FF3333"/><circle cx="263.7" cy="173.7" r="2" fill="#FF3333"/><circle cx="318.3" cy="168.1" r="2" fill="#FF3333"/><circle cx="373.0" cy="142.9" r="2" fill="#FF3333"/>
-        <circle cx="427.7" cy="130.4" r="3.5" fill="#FF3333" stroke="#FFFFFF" stroke-width="1.5"/>
-        <text x="427.7" y="123.4" text-anchor="middle" class="peak-label-sub">71</text>
-      <circle cx="482.3" cy="146.1" r="2" fill="#FF3333"/><circle cx="537.0" cy="139.2" r="2" fill="#FF3333"/><circle cx="591.7" cy="163.7" r="2" fill="#FF3333"/><circle cx="646.3" cy="154.3" r="2" fill="#FF3333"/><circle cx="701.0" cy="148.6" r="2" fill="#FF3333"/><circle cx="755.7" cy="166.2" r="2" fill="#FF3333"/><circle cx="810.3" cy="158.0" r="2" fill="#FF3333"/><circle cx="865.0" cy="168.1" r="2" fill="#FF3333"/>
+        <circle cx="99.7" cy="104.6" r="3.5" fill="#FF3333" stroke="#FFFFFF" stroke-width="1.5"/>
+        <text x="99.7" y="97.6" text-anchor="middle" class="peak-label-sub">64</text>
+      <circle cx="154.3" cy="150.8" r="2" fill="#FF3333"/><circle cx="209.0" cy="144.2" r="2" fill="#FF3333"/><circle cx="263.7" cy="128.8" r="2" fill="#FF3333"/><circle cx="318.3" cy="147.5" r="2" fill="#FF3333"/><circle cx="373.0" cy="147.5" r="2" fill="#FF3333"/>
+        <circle cx="400.3" cy="96.9" r="3.5" fill="#FF3333" stroke="#FFFFFF" stroke-width="1.5"/>
+        <text x="400.3" y="89.9" text-anchor="middle" class="peak-label-sub">71</text>
+      <circle cx="427.7" cy="131.0" r="2" fill="#FF3333"/><circle cx="482.3" cy="114.5" r="2" fill="#FF3333"/><circle cx="537.0" cy="158.5" r="2" fill="#FF3333"/><circle cx="591.7" cy="149.7" r="2" fill="#FF3333"/><circle cx="646.3" cy="155.2" r="2" fill="#FF3333"/><circle cx="701.0" cy="149.7" r="2" fill="#FF3333"/><circle cx="755.7" cy="121.1" r="2" fill="#FF3333"/><circle cx="810.3" cy="138.7" r="2" fill="#FF3333"/><circle cx="865.0" cy="168.4" r="2" fill="#FF3333"/>
 
   <!-- X Axis Date Labels -->
-  <text x="45.0" y="198" text-anchor="middle" class="axis-date">13 Oct</text><text x="181.7" y="198" text-anchor="middle" class="axis-date">18 Oct</text><text x="318.3" y="198" text-anchor="middle" class="axis-date">23 Oct</text><text x="455.0" y="198" text-anchor="middle" class="axis-date">28 Oct</text><text x="591.7" y="198" text-anchor="middle" class="axis-date">02 Nov</text><text x="728.3" y="198" text-anchor="middle" class="axis-date">07 Nov</text><text x="865.0" y="198" text-anchor="middle" class="axis-date">12 Nov</text>
+  <text x="45.0" y="198" text-anchor="middle" class="axis-date">14 Oct</text><text x="181.7" y="198" text-anchor="middle" class="axis-date">19 Oct</text><text x="318.3" y="198" text-anchor="middle" class="axis-date">24 Oct</text><text x="455.0" y="198" text-anchor="middle" class="axis-date">29 Oct</text><text x="591.7" y="198" text-anchor="middle" class="axis-date">03 Nov</text><text x="728.3" y="198" text-anchor="middle" class="axis-date">08 Nov</text><text x="865.0" y="198" text-anchor="middle" class="axis-date">13 Nov</text>
 </svg>
