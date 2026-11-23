@@ -1,0 +1,48 @@
+<svg width="900" height="284" viewBox="0 0 900 284" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub metrics: 7,900 contributions, 6,833 commits, 97 repositories (89 private), 3,131 deploys">
+  <title>GitHub metrics: 7,900 contributions, 6,833 commits, 97 repositories (89 private), 3,131 deploys</title>
+  <rect x="1" y="1" width="898" height="282" rx="10" fill="#050505" stroke="#FF3333" stroke-width="1.5" stroke-opacity="0.6"/><path d="M1 15 L1 1 L15 1" stroke="#FF3333" stroke-width="2.5" fill="none"/><path d="M899 15 L899 1 L885 1" stroke="#FF3333" stroke-width="2.5" fill="none"/><path d="M1 269 L1 283 L15 283" stroke="#FF3333" stroke-width="2.5" fill="none"/><path d="M899 269 L899 283 L885 283" stroke="#FF3333" stroke-width="2.5" fill="none"/>
+  <text x="25" y="36" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0.5" fill="#FF3333">GITHUB METRICS · ALL REPOSITORIES</text>
+  <text x="25" y="56" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#8A8378">personal + 5 organizations · private repos included · since Apr 2024 · updated 23 Nov 2026</text>
+  <g transform="translate(25.0 74)">
+    <rect width="274.0" height="86" rx="6" fill="#120607" stroke="#FF3333" stroke-opacity="0.35"/>
+    <rect width="3" height="86" rx="1.5" fill="#FF3333"/>
+    <text x="16" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#FF3333">7,900</text>
+    <text x="16" y="58" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.6" fill="#EFE6D0">CONTRIBUTIONS</text>
+    <text x="16" y="75" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#8A8378">since Apr 2024, all years</text>
+  </g>
+  <g transform="translate(313.0 74)">
+    <rect width="274.0" height="86" rx="6" fill="#120607" stroke="#FF3333" stroke-opacity="0.35"/>
+    <rect width="3" height="86" rx="1.5" fill="#FF3333"/>
+    <text x="16" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#FF3333">6,833</text>
+    <text x="16" y="58" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.6" fill="#EFE6D0">COMMITS AUTHORED</text>
+    <text x="16" y="75" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#8A8378">default branches of every repo</text>
+  </g>
+  <g transform="translate(601.0 74)">
+    <rect width="274.0" height="86" rx="6" fill="#120607" stroke="#FF3333" stroke-opacity="0.35"/>
+    <rect width="3" height="86" rx="1.5" fill="#FF3333"/>
+    <text x="16" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#FF3333">97</text>
+    <text x="16" y="58" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.6" fill="#EFE6D0">REPOSITORIES</text>
+    <text x="16" y="75" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#8A8378">89 private · 8 public · no forks</text>
+  </g>
+  <g transform="translate(25.0 174)">
+    <rect width="274.0" height="86" rx="6" fill="#120607" stroke="#FF3333" stroke-opacity="0.35"/>
+    <rect width="3" height="86" rx="1.5" fill="#FF3333"/>
+    <text x="16" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#FF3333">5</text>
+    <text x="16" y="58" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.6" fill="#EFE6D0">ORGANIZATIONS</text>
+    <text x="16" y="75" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#8A8378">repositories counted in every metric</text>
+  </g>
+  <g transform="translate(313.0 174)">
+    <rect width="274.0" height="86" rx="6" fill="#120607" stroke="#FF3333" stroke-opacity="0.35"/>
+    <rect width="3" height="86" rx="1.5" fill="#FF3333"/>
+    <text x="16" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#FF3333">3,131</text>
+    <text x="16" y="58" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.6" fill="#EFE6D0">DEPLOYS</text>
+    <text x="16" y="75" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#8A8378">successful CI/CD runs + platform deploys</text>
+  </g>
+  <g transform="translate(601.0 174)">
+    <rect width="274.0" height="86" rx="6" fill="#120607" stroke="#FF3333" stroke-opacity="0.35"/>
+    <rect width="3" height="86" rx="1.5" fill="#FF3333"/>
+    <text x="16" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#FF3333">44 days</text>
+    <text x="16" y="58" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.6" fill="#EFE6D0">CURRENT STREAK</text>
+    <text x="16" y="75" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#8A8378">best 47 days · 374 active days</text>
+  </g>
+</svg>

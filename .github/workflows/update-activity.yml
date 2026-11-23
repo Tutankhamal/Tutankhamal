@@ -1,39 +1,74 @@
-name: Update Activity Graph & Stats
+name: Update GitHub Metrics
+
+# Mede todo dia as métricas de todos os repositórios (pessoais e das organizações, privados incluídos) e atualiza os
+# SVGs deste perfil e do README da organização Stream-Builders (Stream-Builders/.github, pasta profile/).
+# O token METRICAS_TOKEN é um PAT clássico com `repo` e `read:org` (o GITHUB_TOKEN só enxerga este repositório).
+# Sem ele, o workflow só redesenha o gráfico de atividade, como antes.
+# Repositório público: o runner do GitHub não consome cota de minutos.
 
 on:
   schedule:
-    # Roda diariamente à meia-noite (00:00 UTC)
-    - cron: '0 0 * * *'
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: metricas
+  cancel-in-progress: false
+
 jobs:
-  update-graph:
+  metricas:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      METRICAS_TOKEN: ${{ secrets.METRICAS_TOKEN }}
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout do perfil
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Checkout do README da organização
+        if: env.METRICAS_TOKEN != ''
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          node-version: 20
+          repository: Stream-Builders/.github
+          token: ${{ secrets.METRICAS_TOKEN }}
+          path: org
 
-      - name: Run Activity Graph Generator
+      - name: Node.js 24
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 24
+
+      - name: Medir e desenhar (todos os repositórios)
+        if: env.METRICAS_TOKEN != ''
+        run: node scripts/metricas/desenhar.mjs --pessoal . --org org/profile
+
+      - name: Só o gráfico de atividade (sem METRICAS_TOKEN)
+        if: env.METRICAS_TOKEN == ''
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/generate-activity.js
+        run: |
+          echo "::warning::sem o secret METRICAS_TOKEN: só o gráfico de atividade é atualizado, e só com o que o GITHUB_TOKEN enxerga"
+          node scripts/generate-activity.js
 
-      - name: Commit & Push if changed
+      - name: Publicar no perfil
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add activity-graph.svg
-          if git diff --staged --quiet; then
-            echo "No changes in activity graph"
-          else
-            git commit -m "chore(metrics): update activity graph [skip ci]"
-            git push
+          git add metrics.svg stacks.svg activity-graph.svg
+          if git diff --staged --quiet; then echo "perfil sem mudança"; else
+            git commit -q -m "chore(metrics): update metrics [skip ci]" && git push -q
+          fi
+
+      - name: Publicar no README da organização
+        if: env.METRICAS_TOKEN != ''
+        working-directory: org
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/metrics.svg profile/stacks.svg
+          if git diff --staged --quiet; then echo "org sem mudança"; else
+            git commit -q -m "chore(metrics): update organization metrics [skip ci]" && git push -q
           fi

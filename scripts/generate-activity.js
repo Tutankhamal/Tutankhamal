@@ -116,12 +116,12 @@ function generateActivitySvg(days) {
     if (isSuperPeak) {
       return `
         <circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="7" fill="#FF3333" fill-opacity="0.25"/>
-        <circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="4" fill="#FFFFFF" stroke="#FF3333" stroke-width="2"/>
+        <circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="4" fill="#EFE6D0" stroke="#FF3333" stroke-width="2"/>
         <text x="${p.x.toFixed(1)}" y="${(p.y - 8).toFixed(1)}" text-anchor="middle" class="peak-label">${p.count}</text>
       `;
     } else if (isPeak) {
       return `
-        <circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="3.5" fill="#FF3333" stroke="#FFFFFF" stroke-width="1.5"/>
+        <circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="3.5" fill="#FF3333" stroke="#EFE6D0" stroke-width="1.5"/>
         <text x="${p.x.toFixed(1)}" y="${(p.y - 7).toFixed(1)}" text-anchor="middle" class="peak-label-sub">${p.count}</text>
       `;
     } else if (idx % 2 === 0) {
@@ -155,7 +155,7 @@ function generateActivitySvg(days) {
     .badge-val { font: 800 12px 'Orbitron', 'Segoe UI', Ubuntu, Sans-Serif; fill: #FF3333; }
     .axis-date { font: 500 10px 'Orbitron', 'Segoe UI', Ubuntu, Sans-Serif; fill: #888888; }
     .grid-val { font: 500 9px 'Segoe UI', Ubuntu, Sans-Serif; fill: #666666; }
-    .peak-label { font: 800 10px 'Orbitron', 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+    .peak-label { font: 800 10px 'Orbitron', 'Segoe UI', Ubuntu, Sans-Serif; fill: #EFE6D0; }
     .peak-label-sub { font: 700 9px 'Orbitron', 'Segoe UI', Ubuntu, Sans-Serif; fill: #FF9999; }
   </style>
 
@@ -229,7 +229,12 @@ async function main() {
   console.log(`Total year contributions: ${calendar.totalContributions}`);
 }
 
-main().catch(err => {
-  console.error(err);
-  process.exit(1);
-});
+module.exports = { generateActivitySvg };
+
+// rodado direto, continua gerando só o gráfico (o workflow usa o scripts/metricas/desenhar.mjs, que mede tudo)
+if (require.main === module) {
+  main().catch(err => {
+    console.error(err);
+    process.exit(1);
+  });
+}

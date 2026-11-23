@@ -122,13 +122,13 @@
 </div>
 
 <div align="center">
-  <p>
-    <img src="./github-stats.svg" height="150" alt="GitHub Stats" />
-    <img src="./github-streak.svg" height="150" alt="GitHub Streak" />
-  </p>
-  
-  <img src="./activity-graph.svg" width="95%" alt="Activity Graph" />
-
+  <img src="./metrics.svg" width="95%" alt="GitHub metrics across personal and organization repositories: contributions, commits, repositories, organizations, deploys and streak" />
+  <br /><br />
+  <img src="./stacks.svg" width="95%" alt="Most used stacks across all repositories" />
+  <br /><br />
+  <img src="./activity-graph.svg" width="95%" alt="Activity graph of the last 31 days" />
+  <br />
+  <sub>Measured daily by <a href="./scripts/metricas">scripts/metricas</a> across personal and organization repositories, private ones included.</sub>
   <br /><br />
 </div>
 
